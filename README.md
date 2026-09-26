@@ -17,6 +17,7 @@
 - Odin Projects recipe guide
 - Google images
 - https://pixabay.com/
+- https://www.allrecipes.com/
 
 # Image
 <img width="1424" height="1416" alt="Screenshot 2026-09-26 at 10 49 47 AM" src="https://github.com/user-attachments/assets/8e89f4c4-4df2-43e7-a527-8c61bbdca6e1" />
