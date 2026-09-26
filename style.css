@@ -1,3 +1,16 @@
 body {
+    background-color: lavenderblush;
     font-size: 20px;
+}
+
+li.ca {
+    color: lightgreen;
+}
+
+li.csr {
+    color: salmon;
+}
+
+li.sm {
+    color: bisque;
 }
