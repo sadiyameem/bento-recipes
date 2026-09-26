@@ -15,6 +15,10 @@ li.sm {
     color: bisque;
 }
 
-.recipe1 {
-    background-color: lightgreen;
+li.stsr {
+    color:pink;
+}
+
+li.vs {
+    color: green
 }
